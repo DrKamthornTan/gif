@@ -1,0 +1,2 @@
+# gif
+thumbnails
